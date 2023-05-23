@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Pr-att
-- 👀 I’m interested in Software Development and Competitive Programming.
+- 👋 Hi, I’m Pratyush Pandey
+- 👀 I’m interested in Application Development and Competitive Programming.
 - 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on Projects based on Flutter.
 - 📫 How to reach me : {email: pp56355@gmail.com}
